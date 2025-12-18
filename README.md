@@ -45,6 +45,8 @@ Developed by:TAMILSELVI S  RegisterNumber:25018014
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1069" height="380" alt="{2D142359-7AC9-4636-9BB7-0505B8C53230}" src="https://github.com/user-attachments/assets/b5781946-b74c-4f7a-a9e7-412b74516aab" />
+
 
 **RESULTS**
 Thus,the implemented  T flipflop using verilog and validating their functionality using their functional tables
